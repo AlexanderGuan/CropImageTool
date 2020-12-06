@@ -5,4 +5,8 @@ This is a simple tool for cropping a large image into several small pics in the 
 
 效果
 
-使用方法：1.将STRIDE修改为你需要的分辨率  2.将INPUTFILE修改为图片所在目录 3.将OUTPUTFILE修改为图片输出目录
+
+
+Introduce: 1.Change the STRIDE to the resolution which you need    2.change the FILE_DIR to the file directory in which images exist.   3.change the OUTPUT_DIR to the file directory into which you wish the pics save
+
+使用方法：1.将STRIDE修改为你需要的分辨率  2.将FILE_DIR修改为图片所在目录 3.将OUTPUT_DIR修改为图片输出目录
